@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1790695951 source:c:\users\hp\documents\eee 2.1\programming\simple calc\main.c
+	<stdio.h>
+	<stdlib.h>
+
